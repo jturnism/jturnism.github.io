@@ -84,6 +84,11 @@ footer {
     word-wrap: break-word;
 }
 
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
 @media (prefers-color-scheme: dark) {
      :root {
         --background: #202124;
